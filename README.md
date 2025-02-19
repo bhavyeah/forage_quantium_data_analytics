@@ -1,2 +1,2 @@
 # forage_quantium_data_analytics
-this is my coding assignment for the forage Quantium Data Analytics Virtual Internship
+these are my submitted coding assignments for the forage Quantium Data Analytics Virtual Internship
